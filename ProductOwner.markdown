@@ -5,8 +5,8 @@
 alt="Product Owner" width="240" height="180" border="10" /></a> 
 ##Overview
 ###A product owner is responsible for:
-+Prioritization of the backlog
-+Defines product features
-+Can change prioirity and features every sprint
-+Accepts or rejects sprint work results
-+Is responsibile for profitablity of the product (this one is tough in a large org. as this is often a senior manager)
+*Prioritization of the backlog
+*Defines product features
+*Can change prioirity and features every sprint
+*Accepts or rejects sprint work results
+*Is responsibile for profitablity of the product (this one is tough in a large org. as this is often a senior manager)
