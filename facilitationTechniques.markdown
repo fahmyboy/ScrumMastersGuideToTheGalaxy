@@ -1,8 +1,8 @@
 #Facilitation techniques
 
-##Decider protocal
+###Decider protocal
 
-##Dot Voting
+###Dot Voting
 This a way to have group priortize or pick a topic from list of choices quickly.
 
 1. Make a list on white board or large post-it tablet (could use excel or word or similar software if desperate)
@@ -21,11 +21,25 @@ Link:
 * https://www.retrium.com/resources/techniques/lean-coffee
 
 
-##Bikablo for whiteboarding magic
+###Bikablo for whiteboarding magic
 
-##Don't be a time box nazi 
+###Don't be a time box nazi 
 
-##Stuff to buy
+### Casual Loop Diagrams (CLD)
+Originally developed in 1950's to analyse complex systems, Casual Loop diagrams can help you sort out and find root cause in complex or simple problems. They are sort of like more structured mind-map. You basically start with the problem or peice the system your interested in the center of the diagram. You then add in things that affect that peice or each other, using combination of arrow and symbols to mark whether the effect (cause) is positive or negative. This then allows you to identify what you can change to effect the system.
+
+The "Loop" part comes in becuase you may be able to spot positive, negative or balanced "feedback" loops in your system once you have it  mapped out.
+
+The symbols used vary a little depending what you read.
+
+Common Symbols:
+* Positive Effect: + or no symbol
+* Negative Effect: - or letter "o" for opposite
+* Delay Marker: two slashes in the arrow means there is a delayed reaction
+
+Link: https://www.isixsigma.com/tools-templates/cause-effect/causal-loop-diagrams-little-known-analytical-tool/
+
+###Stuff to buy
 * Great white board markers
 * Big clock(insert amazon link here)
 
