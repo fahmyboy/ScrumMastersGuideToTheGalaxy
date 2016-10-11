@@ -56,6 +56,16 @@ Another Cause/Effect diagram, little bit simpler then CLD's. You can use it eith
 
 Link: https://www.isixsigma.com/tools-templates/cause-effect/cause-and-effect-aka-fishbone-diagram/
 
+###Five Whys
+Common method used for root cause analysis, the Five Whys method is basically asking why over and over until feel got to the actual root the problem.
+
+Link: https://www.isixsigma.com/tools-templates/cause-effect/determine-root-cause-5-whys/
+
+###Five Hows
+A varitation on Five Whys, the authors suggests its better to keep asking how. This, in thoery, will help avoid the blame game by focusing on issue, not the human factor.
+
+Link: https://www.oreilly.com/ideas/the-infinite-hows
+
 ###Stuff to buy
 * Great white board markers
 * Big clock(insert amazon link here)
