@@ -37,7 +37,7 @@ Link:
 
 ###Don't be a time box nazi 
 
-### Casual Loop Diagrams (CLD)
+###Casual Loop Diagrams (CLD)
 Originally developed in 1950's to analyse complex systems, Casual Loop diagrams can help you sort out and find root cause in complex or simple problems. They are sort of like more structured mind-map. You basically start with the problem or peice the system your interested in the center of the diagram. You then add in things that affect that peice or each other, using combination of arrow and symbols to mark whether the effect (cause) is positive or negative. This then allows you to identify what you can change to effect the system.
 
 The "Loop" part comes in becuase you may be able to spot positive, negative or balanced "feedback" loops in your system once you have it  mapped out.
@@ -50,6 +50,11 @@ Common Symbols:
 * Delay Marker: two slashes in the arrow means there is a delayed reaction
 
 Link: https://www.isixsigma.com/tools-templates/cause-effect/causal-loop-diagrams-little-known-analytical-tool/
+
+###Fishbone Diagram
+Another Cause/Effect diagram, little bit simpler then CLD's. You can use it either root cause a known issue or even to diagram how to meet a new goal. The head of the fish represents the issue/goal. The bones the fish are used to layout what factors cause the issue or will help reach your goal.
+
+Link: https://www.isixsigma.com/tools-templates/cause-effect/cause-and-effect-aka-fishbone-diagram/
 
 ###Stuff to buy
 * Great white board markers
