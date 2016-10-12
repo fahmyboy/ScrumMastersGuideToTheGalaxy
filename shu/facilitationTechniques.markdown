@@ -33,3 +33,5 @@ Link:
 * Big clock(insert amazon link here)
 
 ##books to read
+
+##SWOT
