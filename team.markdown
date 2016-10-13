@@ -22,8 +22,3 @@ Maybe HA Level:
 * Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment AutomationAuthors - Jez Humble and David Farley
 * Kanban - David J Anderson
 * Test Driven Development: By Example - Kent Beck
-
-
-Hacking Away at Ahmad's document
-
-Trying again - Text Editor Atom
