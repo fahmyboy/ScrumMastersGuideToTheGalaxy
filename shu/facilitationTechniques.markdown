@@ -1,10 +1,23 @@
 #Facilitation techniques
+**The main thing with facilitating is getting folks to use some sort visual display - whiteboard, flip chart, electronic whiteboard, etc... -  This will greatly help improve discussions and understanding**
 
 ##Decider protocal
-This is a really easy way to make group decisions. Here is how you do it
-* adfdsa
-* adfsaf
-* adfdsa
+
+**First Step - Decide if require unanimous (99% should not) or majority -make sure define majority, >1/2 >2/3 (for more important decisions), etc...**
+
+1. Roman Vote - Most common protocal, Thumb Up = Agree, Thumb Down = Disagree and Thumb Sideway = Indifferent. Can change meanings to actual choices if only 2 or 3 items to chose between, ie Up = Just a Hamburger, Side = Just Fries and Down = Burger and Fries. Can also change meaning slightly: Up = Agree, Side = Will support majority, Down = Want to discuss
+
+2. Fist of Five
+ * 0 fingers (a fist): No way, terrible choice, I will not go along with it. A way to block consensus.
+ * 1 finger: I have serious reservations with this idea, but I vote to move forward, but I’d prefer to resolve the concerns before supporting it.
+ * 2 fingers: I have some concerns, but I’ll go along and try it.
+ * 3 fingers: I will support the idea.
+ * 4 fingers: I like this idea, sounds good.
+ * 5 fingers: Absolutely, best idea ever! I’ll champion it.
+
+* http://agileforall.com/learning-with-fist-of-five-voting/
+
+
 
 ##Dot Voting
 This a way to have group priortize or pick a topic from list of choices quickly.
@@ -25,8 +38,12 @@ Link:
 * https://www.retrium.com/resources/techniques/lean-coffee
 
 ##Bikablo for whiteboarding magic
+This specifc method of learning to draw to help visualize ideas on whiteboard here's a link:
+http://bikablo.kommunikationslotsen.de/en/
+http://www.marcelvanhove.com/reactivate-your-drawing-skills-with-bikablo-visual-facilitation/
 
-##Don't be a time box nazi 
+##Don't be a time box nazi
+Time boxing is important way to keep meetings moving, but don't just shout out "Stop" - warn the team when time is approaching and watch for good break in the exchange. And if the discussion is really good and accomplishing something - then toss out the time boxing.
 
 ##Stuff to buy
 * Great white board markers
