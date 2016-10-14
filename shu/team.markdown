@@ -2,7 +2,7 @@
 
 ##How to form teams
 
-###Team formation exersize
+###Team formation exercise  
 Insert link here
 
 #Books to read
