@@ -1,1 +1,31 @@
 #Retrospective techniques
+
+Retrospectives can have many different purposes though most fall into two areas:
+* Reflect on one more topics and come up with concrete action items to carry forward
+* Team Building and Reflection (Improve Team Dynamics)
+
+Almost all retrospectives are held using Whiteboard and/or Flip Chart that teams place post item notes on to represent their issues or ideas.
+
+Retrospectives should be held at all levels, from Feature Team to Product Team.
+
+###Basic 3 Category
+Continue, Stop, Start - team identify's items from the last sprint they want continue or stop doing. Then in 3rd category they identify things they want start doing in the next sprint. The names of columns are often changed up - like, dislike, start or cool, uncool, make cool. Glad, Mad and Sad is similar retro but slight different contexts.
+
+###Starfish
+Draw five legged starfish (sort like spokes of a wheel), in between each leg is category: Start, Stop, Less, More, Continue
+
+###Sailboat (better yet Pirate Ship)
+Here , to best of your ability, sketch out scene with a boat with sails (good stuff), anchor (things that slow you down), island paradise (goal), rocks (blockers). You have team place post-it notes of things that relate to each area.
+
+###Links:
+
+Good site with Links to others: https://www.scrumalliance.org/community/articles/2014/april/a-reflection-on-retrospectives
+
+Most Popular Technique sites:
+* http://www.funretrospectives.com/
+* http://tastycupcakes.org/
+
+Book: Agile Retrospectives: Making Good Teams Great, by Esther Derby and Diana Larsen
+
+
+
