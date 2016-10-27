@@ -40,3 +40,6 @@ Feedback:
 * Good Video on Feedback (little system thinking thrown in): https://www.infoq.com/presentations/feedback-models-techniques
 
 Git/Branching/Github for non-coders: https://brennan.io/2015/08/07/github-noncoders/
+
+Visualization:
+* Great ebook: 96 Visualization Examples - Jimmy Janlén 
