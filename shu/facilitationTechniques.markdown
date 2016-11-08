@@ -45,6 +45,20 @@ http://www.marcelvanhove.com/reactivate-your-drawing-skills-with-bikablo-visual-
 ##Don't be a time box nazi
 Time boxing is important way to keep meetings moving, but don't just shout out "Stop" - warn the team when time is approaching and watch for good break in the exchange. And if the discussion is really good and accomplishing something - then toss out the time boxing.
 
+##Open Space Technology (OST)
+<body>
+<font color="gray">Principles of Open Space</font>
+</body>
+* Whoever comes are teh right people
+* Whatever happens is the only thing that could have
+* Whenever it starts in the right time
+* Whenever it is over it is over
+
+#####The Law of 2 Feet#####
+* If you are neither learning or contributing it is your responsibility to respectfully use your own 2 feet to find some place you are learning or contributing
+ 
+
+
 ##Stuff to buy
 * Great white board markers
 * Big clock(insert amazon link here)
