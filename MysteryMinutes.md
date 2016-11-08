@@ -1,4 +1,4 @@
-# Mystery Minutes #
+## Mystery Minutes ##
 
 *Problem*: Scrum Masters are supposed to be masters of scrum.  As such, when they observe inconsistent behavior or hear comments that suggest misunderstandings, they need to be able to correct through education.  Newly minted scrum masters may be able to come up with cogent arguments — after the fact.  It is much harder to quickly think on your feet and explain your reasoning to turn a situation into an educational opportunity.  That is where this exercise comes in.  It uses extemporaneous speaking in a safe environment for practice and feedback.  Kevin uses this in his SM CoP with good results.
 
