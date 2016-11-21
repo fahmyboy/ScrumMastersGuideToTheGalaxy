@@ -36,6 +36,7 @@ Good site with Links to others: https://www.scrumalliance.org/community/articles
 Most Popular Technique sites:
 * http://www.funretrospectives.com/
 * http://tastycupcakes.org/
+* http://www.plans-for-retrospectives.com/?id=85-97-91-13-120
 
 Book: Agile Retrospectives: Making Good Teams Great, by Esther Derby and Diana Larsen
 
